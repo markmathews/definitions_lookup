@@ -5,7 +5,7 @@ import requests as r
 import json
 from pprint import pprint
 
-WORDS = ['forebrain','occipital']
+WORDS = ['forebrain','occipital','temporal lobes','gyrus','sulcus']
 
 base_url = 'https://od-api.oxforddictionaries.com:443/api/v1/'
 app_id = 'b62d6a70'
